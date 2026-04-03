@@ -1,5 +1,5 @@
 # Aeroshell - Modern SSH Client
-👉 Latest release: https://github.com/你的仓库/releases
+👉 Latest release: https://github.com/guocf20/ssh-client-aeroshell/releases/
 
 ## 🇺🇸 English
 
